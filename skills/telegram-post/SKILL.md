@@ -82,7 +82,7 @@ Telegram uses its own markdown flavor with **single asterisks** for bold:
 | `_italic_` | *italic* |
 | `` `code` `` | `inline code` |
 | ``` ```code``` ``` | Code block |
-| `[text](url)` | [hyperlink](url) |
+| `[text](url)` | Link: `text` opens `url` |
 | `> text` | Blockquote |
 
 **Note:** This differs from standard Markdown where `**double asterisks**` make bold.
